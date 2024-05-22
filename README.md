@@ -36,7 +36,7 @@ np.set_printoptions(threshold=sys.maxsize)
 ```
 # data_set
 
-![data_set](data_set.gif)
+![Animation with Data Set](data_set.gif)
 
 ## Output
 
