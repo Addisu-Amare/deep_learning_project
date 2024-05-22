@@ -60,4 +60,6 @@ Refer to the project's license file for details on the licensing of code and res
 
 ## Contact
 For inquiries or feedback, contact via email at 0941813057estifanos@gmail.com.
+## our team
+![Addisu Amare Zena](addisu.PNG)
 
