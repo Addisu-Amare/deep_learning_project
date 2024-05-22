@@ -4,7 +4,7 @@
 This project aims to explore and compare diffusion models with Generative Adversarial Networks (GANs) in the context of image synthesis. The goal is to investigate the potential advantages of diffusion models over GANs in generating high-quality images.
 
 ## Installation
-Ensure you have the necessary dependencies by running:
+
 ```bash
 pip install wandb
 ```
