@@ -12,9 +12,7 @@ This repository contains visualizations of the loss curves for a Generative Adve
 
 ![Discriminator and Generator Loss](descriminator_and_generator_loss.PNG)
 
-This image shows the loss curves for both the discriminator and generator during the training process of the GAN model. The x-axis represents the training steps, while the y-axis shows the loss values. The blue line represents the discriminator loss, and the orange line represents the generator loss.
-
-The loss curves provide insights into the training progress and the balance between the discriminator and generator. Ideally, the discriminator and generator losses should converge to a stable point, indicating that the model has reached an equilibrium.
+This image shows the loss  for both the discriminator and generator during the training process of the GAN model.  
 
 ## 2. `image_by_gan.PNG`
 
