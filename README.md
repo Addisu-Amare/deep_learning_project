@@ -32,7 +32,10 @@ from torchvision.models.inception import inception_v3
 
 warnings.filterwarnings('ignore')
 np.set_printoptions(threshold=sys.maxsize)
+
 ```
+#data_set
+![Alt Text](cifar10.tiff)
 
 ## Output
 
