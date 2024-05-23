@@ -36,7 +36,7 @@ np.set_printoptions(threshold=sys.maxsize)
 ```
 # data_set
 
-![Animation with Data Set](data_set.gif)
+![Animation with Data Set](https://github.com/Addisu-Amare/deep_learning_project/blob/main/data_set.gif)
 
 ## Output
 
