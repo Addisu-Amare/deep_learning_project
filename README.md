@@ -56,7 +56,7 @@ Weights & Biases Visualization
 ![Weights & Biases Visualization](wandb.PNG)
 - A screenshot from Weights & Biases (WandB) captured during the experiment.
 ## diffusion_model_out_put
-![noising](forward_process_of_diffusion(noising)_sample_image.png,)
+![noising](forward_process_of_diffusion(noising)_sample_image.png)
 ![denoising for 10 epoch](reverse_process_of_diffusion_model_denoising_sample_image.png)
 
 ## Contributing
